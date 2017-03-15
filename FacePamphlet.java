@@ -3,7 +3,7 @@
  * -----------------------
  * When it is finished, this program will implement a basic social network
  * management system.
- * need to commit
+ * need to commit, more commit
  */
 
 import acm.program.*;
