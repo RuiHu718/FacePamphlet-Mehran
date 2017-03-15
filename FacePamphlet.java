@@ -4,6 +4,7 @@
  * When it is finished, this program will implement a basic social network
  * management system.
  * need to commit, more commit
+ * more test about this git thing cross multiple computers
  */
 
 import acm.program.*;
