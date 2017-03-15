@@ -35,4 +35,8 @@ public class FacePamphlet extends Program
 		// You fill this in as well as add any additional methods
 	}
 
+    private void test(){
+        //this is a test
+    }
+
 }
